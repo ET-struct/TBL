@@ -1,2 +1,2 @@
-# TBL
-The Tennis Ball Launcher, also known as TBL, is my personal project to further test my knowledge about embedded systems.
+# IR Break Beam Sensor Tests
+This branch includes the src code I created to test the sensor and the link to the YouTube video demo. 
